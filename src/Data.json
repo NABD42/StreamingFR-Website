@@ -1,0 +1,158 @@
+[
+    {   
+        "title": "Amandla",
+        "type":"film"
+    },
+    {   
+        "title": "Coco",
+        "type":"film"
+    },
+    {   
+        "title": "Dune",
+        "type":"film"
+    },
+    {   
+        "title": "Et Le Ciel S'assombrit",
+        "type":"film"
+    },
+    {   
+        "title": "Fresh",
+        "type":"film"
+    },
+    {   
+        "title": "Home Team",
+        "type":"film"
+    },
+    {   
+        "title": "I Am Women",
+        "type":"film"
+    },
+    {   
+        "title": "Joker",
+        "type":"film"
+    },
+    {   
+        "title": "La Fantastique Famille Madrigal",
+        "type":"film"
+    },
+    {   
+        "title": "Les 8 Salopards",
+        "type":"film"
+    },
+    {   
+        "title": "Les Eternels",
+        "type":"film"
+    },
+    {   
+        "title": "Les Gardiens de la Galaxie 2",
+        "type":"film"
+    },
+    {   
+        "title": "Les Indestructibles",
+        "type":"film"
+    },
+    {   
+        "title": "Matrix Ressurections",
+        "type":"film"
+    },
+    {   
+        "title": "Nightmare Alley",
+        "type":"film"
+    },
+    {   
+        "title": "Scream",
+        "type":"film"
+    },
+    {   
+        "title": "Spiderman No Way Home",
+        "type":"film"
+    },
+    {   
+        "title": "Suicide Squad",
+        "type":"film"
+    },
+    {   
+        "title": "Taxi 5",
+        "type":"film"
+    },
+    {   
+        "title": "The Harder They Fall",
+        "type":"film"
+    },
+    {   
+        "title": "The King's Man La Premiere Mission",
+        "type":"film"
+    },
+    {   
+        "title": "Fairview S01",
+        "type":"serie"
+    },
+    {   
+        "title": "Family Guy S20",
+        "type":"serie"
+    },
+    {   
+        "title": "Family Law S01",
+        "type":"serie"
+    },
+    {   
+        "title": "Les Simpsons",
+        "type":"serie"
+    },
+    {   
+        "title": "NCIS: Los Angeles S13",
+        "type":"serie"
+    },
+    {   
+        "title": "Or Noir S01",
+        "type":"serie"
+    },
+    {   
+        "title": "Peaky Blinders S01",
+        "type":"serie"
+    },
+    {   
+        "title": "Peaky Blinders S05",
+        "type":"serie"
+    },
+    {   
+        "title": "Robot Chicken S11",
+        "type":"serie"
+    },
+    {   
+        "title": "Snowfall S05",
+        "type":"serie"
+    },
+    {   
+        "title": "Snow Piercer S03",
+        "type":"serie"
+    },
+    {   
+        "title": "SouthPark S25",
+        "type":"serie"
+    },
+    {   
+        "title": "Superman and Lois 2",
+        "type":"serie"
+    },
+    {   
+        "title": "The Greath North S02",
+        "type":"serie"
+    },
+    {   
+        "title": "The Last Kingdom S05",
+        "type":"serie"
+    },
+    {   
+        "title": "The Resident S05",
+        "type":"serie"
+    },
+    {   
+        "title": "The Wire S05",
+        "type":"serie"
+    },
+    {   
+        "title": "Winning Time Lakers S01",
+        "type":"serie"
+    }
+]
