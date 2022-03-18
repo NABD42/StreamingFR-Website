@@ -49,3 +49,29 @@
     }
   });
 })(jQuery);
+
+
+// Search bar
+
+const search = document.getElementById('search');
+const matchList = document.getElementById('match-list');
+
+// Search Data.json and filter it
+const searchStates = async searchText => {
+  const res = await fetch('../src/Data.json');
+  const states = await res.json();
+
+  //Get matches to current text input
+  let matches = states.filter(state => {
+    const regex = new RegExp(`^${searchText}`, 'gi');
+    return state.title.match(regex);
+  });
+
+  if(searchText.length === 0) {
+    matches = [];
+  }
+
+  console.log(matches);
+};
+
+search.addEventListener('input', () => searchStates(search.value));
